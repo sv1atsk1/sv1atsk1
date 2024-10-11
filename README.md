@@ -1,4 +1,4 @@
-<h1 align="center">Привет! 👋 Я Вячеслав Святский – Java разработчик</h1>
+<h1 align="center">Привет! 👋 Я Вячеслав Свяцкий – Java разработчик</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Developer at work" />
