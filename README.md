@@ -65,9 +65,10 @@
 ---
 
 ### 📫 Связаться со мной:
-- 📧 Email: [ваш email]
+- 📧 Email: [sv1atsk1@mail.ru]
 - 💼 LinkedIn: [ссылка на LinkedIn](https://www.linkedin.com/in/viachaslau-sviatski/)
 - 🌐 GitHub: [ссылка на GitHub](https://github.com/sv1atsk1)
+- 🌐 Telegram [@kN1GGhT]
 
 ---
 
