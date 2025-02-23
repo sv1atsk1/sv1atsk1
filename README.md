@@ -69,8 +69,9 @@
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=json-web-tokens&logoColor=white)
 
 #### Languages:
-![Russian](https://img.shields.io/badge/Russian-Native-%23FF0000.svg?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCA0MCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGg2MHYxM0gweiIvPjxwYXRoIGZpbGw9IiMwMDk5Q0MiIGQ9Ik0wIDEzaDYwdjE0SDB6Ii8+PHBhdGggZmlsbD0iI0ZGMDAwMCIgZD0iTTAgMjdINjBWNDBIMHoiLz48L3N2Zz4=)
-![English](https://img.shields.io/badge/English-B2-%230052CC.svg?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCA0MCI+PHBhdGggZmlsbD0iI0ZGMDAwMCIgZD0iTTAgMGg2MHY0MEgweiIvPjxwYXRoIGZpbGw9IiMwMDI1N0IiIGQ9Ik0wIDBoNjB2MjBIMHoiLz48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMCAyMGg2MHYyMEgweiIvPjwvc3ZnPg==)
+English - B2
+Russian - Native
+Belarussian - Native
 
 ### 🔥 Статистика GitHub:
 
