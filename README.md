@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋 My name is Viachaslau Sviatski and I'm a Java Backend Developer</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Developer at work" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Japan" />
 </p>
 
 <p align="center">
