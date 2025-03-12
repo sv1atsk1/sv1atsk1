@@ -84,7 +84,11 @@ Belarussian - Native
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary.vercel.app/api/v1/sv1atsk1" alt="GitHub Contributions" />
+  <img src="https://img.shields.io/github/commit-activity/m/sv1atsk1.svg" alt="Commits Activity" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/sv1atsk1/repository-name" alt="Repo Size" />
 </p>
 
 ---
