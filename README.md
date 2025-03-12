@@ -80,11 +80,11 @@ Belarussian - Native
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sv1atsk1&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sv1atsk1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sv1atsk1&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary.vercel.app/api/v1/sv1atsk1" alt="GitHub Contributions" />
 </p>
 
 ---
