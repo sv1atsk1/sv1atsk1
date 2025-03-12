@@ -76,16 +76,22 @@ Belarussian - Native
 ### 🔥 Статистика GitHub:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sv1atsk1&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sv1atsk1&theme=github_dark" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sv1atsk1&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sv1atsk1&theme=github_dark" alt="Repos per Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sv1atsk1&theme=github_dark&utcOffset=3" alt="Productive Time" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sv1atsk1&theme=radical" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/sv1atsk1/github-readme-activity-graph/blob/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph" />
-</p>
 
 ---
 
