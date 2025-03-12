@@ -84,12 +84,13 @@ Belarussian - Native
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sv1atsk1&theme=github_dark" alt="Repos per Language" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sv1atsk1&theme=github_dark&utcOffset=3" alt="Productive Time" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sv1atsk1&theme=radical" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sv1atsk1&theme=github_dark&utcOffset=3" alt="Productive Time" />
 </p>
 
 
