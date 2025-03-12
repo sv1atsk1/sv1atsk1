@@ -84,11 +84,7 @@ Belarussian - Native
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/sv1atsk1.svg" alt="Commits Activity" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/repo-size/sv1atsk1/repository-name" alt="Repo Size" />
+  <img src="https://img.shields.io/github/repo-size/sv1atsk1/Automatic-moderation-system-for-Telegram-chats-based-on-a-neural-network-approach" alt="Repo Size" />
 </p>
 
 ---
