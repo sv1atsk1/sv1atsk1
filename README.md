@@ -76,15 +76,15 @@ Belarussian - Native
 ### 🔥 Статистика GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sv1atsk1&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sv1atsk1&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sv1atsk1&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sv1atsk1&theme=radical" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/sv1atsk1/Automatic-moderation-system-for-Telegram-chats-based-on-a-neural-network-approach" alt="Repo Size" />
+  <img src="https://github.com/sv1atsk1/github-readme-activity-graph/blob/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph" />
 </p>
 
 ---
