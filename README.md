@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 💼 I am a Java Developer with 3 years of experience.
+- 💼 I am a Java Developer with 3+ years of experience.
 - 🌱 Currently deepening my knowledge in microservices architecture and distributed systems.
 - 🔭 Passionate about building high-load systems and scalable architectures.
 - 💬 Open to collaboration on Java and microservices-related projects.
